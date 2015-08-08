@@ -1,0 +1,10 @@
+For problems 1 and 2, run the program and see result in the command line using:
+ruby 1.rb || ruby 2.rb
+
+(Problem 1 will return a json object and problem 2 will return booleans from the driver test code)
+
+
+Problem 3
+Run program using:
+cat data.xlsx | ruby 3.rb factual:measure_field_lengths
+
